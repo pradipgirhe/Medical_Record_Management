@@ -1,0 +1,15 @@
+[package]
+name = "MedicalRecords"
+version = "1.0.0"
+authors = []
+
+[addresses]
+MyModule = '0x4ac83b9d7fd4d40e92b900f798af538f290557f6a3a88ca4beb888eb13a0c8ae'
+[dev-addresses]
+
+[dependencies.AptosFramework]
+git = "https://github.com/aptos-labs/aptos-core.git"
+rev = "mainnet"
+subdir = "aptos-move/framework/aptos-framework"
+
+[dev-dependencies]
