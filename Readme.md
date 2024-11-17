@@ -1,8 +1,3 @@
-Certainly! Here is a **README** file for your **Medical Record Management with Patient Control** project, based on the provided code:
-
----
-
-# Medical Record Management with Patient Control
 
 ## Introduction
 
